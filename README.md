@@ -1,9 +1,9 @@
-<!-- ================= HEADER ================= -->
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/97c3dd34-aed6-4e6e-bdf8-0305a5158209" /><!-- ================= HEADER ================= -->
 
-<h1 align="center">Hi, I'm Do Hoang Nhat Nguyen(Tomas) 👋</h1>
+<h1 align="center">Hi, I'm Do Hoang Nhat Nguyen(Tomas) </h1>
 
 <h3 align="center">
-Software Developer | DevOps Engineer | Full-Stack Developer
+Software Developer | DevOps Engineer 
 </h3>
 
 <p align="center">
@@ -21,7 +21,7 @@ Software Developer | DevOps Engineer | Full-Stack Developer
 
 <!-- ================= ABOUT ================= -->
 
-## 🧑‍💻 About Me
+## https://icons8.com/icon/aJPLw-4jUCR3/man-technologist About Me
 
 I'm a **Full-Stack Developer** who can build both **Frontend and Backend systems**, currently focusing mainly on **DevOps, Docker, and Cloud infrastructure**.
 
