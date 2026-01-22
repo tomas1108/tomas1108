@@ -1,36 +1,87 @@
-## 👨‍💻 About Me
+<!-- ================= HEADER ================= -->
 
-I'm a **Full-Stack Developer turned DevOps Engineer** who can work across the entire stack — from building clean UIs to designing APIs and deploying scalable cloud systems.
+<h1 align="center">Hi, I'm Do Hoang Nhat Nguyen(Tomas) 👋</h1>
 
-Currently focusing on **DevOps, system architecture, and production deployment** using Docker & AWS.
+<h3 align="center">
+Software Developer | DevOps Engineer | Full-Stack Developer
+</h3>
 
-I enjoy:
-- ⚡ Building scalable backend services
-- 🎯 Writing clean & maintainable code
-- 🚀 Automating deployments with CI/CD
-- ☁️ Optimizing cloud infrastructure
+<p align="center">
+  <a href="https://your-portfolio.com">🌐 Portfolio</a> •
+  <a href="mailto:devtomas11082002@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/tomasdoo1108/">💼 LinkedIn</a> •
+  📱 +84 559 010 669
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;DevOps+Engineer;Docker+%7C+AWS+%7C+CI/CD;Always+Learning+New+Tech&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🛠 Tech Stack
+<!-- ================= ABOUT ================= -->
 
-### 🚀 Frontend
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
+## 🧑‍💻 About Me
 
-### ⚙️ Backend
-![.NET](https://img.shields.io/badge/.NET-512bd4?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+I'm a **Full-Stack Developer** who can build both **Frontend and Backend systems**, currently focusing mainly on **DevOps, Docker, and Cloud infrastructure**.
 
-### 🗄 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+I design scalable APIs, deploy production systems, and automate CI/CD pipelines.
 
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=for-the-badge&logo=github-actions)
+- 🚀 Build end-to-end applications (UI → API → Database → Cloud)
+- ⚙️ Deploy with Docker & CI/CD
+- ☁️ Work with AWS infrastructure
+- 🎯 Focus on performance, clean architecture & maintainability
+
+Passionate about turning complex ideas into reliable real-world products.
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+# 🛠 Technical Skills
+
+## 🚀 Frontend
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+## ⚙️ Backend
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+## 🗄 Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+<!-- ================= STATS ================= -->
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tomas1108&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://streak-stats.demolab.com?user=tomas1108&theme=tokyonight" />
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+⭐ Always learning new technologies and building better systems every day
+</p>
