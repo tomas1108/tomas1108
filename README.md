@@ -8,8 +8,10 @@ Software Developer | DevOps Engineer
 
 <p align="center">
   <a href="https://your-portfolio.com">🌐 Portfolio</a> -
-  <a href="https://www.linkedin.com/in/tomasdoo1108/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> </a> -
-  📱 +84 559 010 669
+  <a href="https://www.linkedin.com/in/tomasdoo1108/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> Linkedin </a> -
+   <a href="https://zalo.me/0559010669">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg" width="20"/>
+  </a>
 </p>
 
 <p align="center">
