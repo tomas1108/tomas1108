@@ -14,7 +14,7 @@ Software Developer | DevOps Engineer | Full-Stack Developer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;DevOps+Engineer;Docker+%7C+AWS+%7C+CI/CD;Always+Learning+New+Tech&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;DevOps+Engineer;Docker+%7C+AWS+%7C+CI/CD;Always+Learning+New+Tech&center=true&width=500&height=45">
 </p>
 
 ---
@@ -27,10 +27,10 @@ I'm a **Full-Stack Developer** who can build both **Frontend and Backend systems
 
 I design scalable APIs, deploy production systems, and automate CI/CD pipelines.
 
-- 🚀 Build end-to-end applications (UI → API → Database → Cloud)
-- ⚙️ Deploy with Docker & CI/CD
-- ☁️ Work with AWS infrastructure
-- 🎯 Focus on performance, clean architecture & maintainability
+- Build end-to-end applications (UI → API → Database → Cloud)
+- Deploy with Docker & CI/CD
+- Work with AWS infrastructure
+- Focus on performance, clean architecture & maintainability
 
 Passionate about turning complex ideas into reliable real-world products.
 
@@ -40,7 +40,7 @@ Passionate about turning complex ideas into reliable real-world products.
 
 # 🛠 Technical Skills
 
-## 🚀 Frontend
+## Frontend
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -48,20 +48,20 @@ Passionate about turning complex ideas into reliable real-world products.
 
 ---
 
-## ⚙️ Backend
+## Backend
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
-## 🗄 Database
+## Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## ☁️ DevOps & Cloud
+## DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -71,7 +71,7 @@ Passionate about turning complex ideas into reliable real-world products.
 
 <!-- ================= STATS ================= -->
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=tomas1108&show_icons=true&theme=tokyonight" />
@@ -83,5 +83,5 @@ Passionate about turning complex ideas into reliable real-world products.
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
-⭐ Always learning new technologies and building better systems every day
+   Always learning new technologies and building better systems every day
 </p>
